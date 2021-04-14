@@ -1,3 +1,5 @@
 Starting again from scratch.
 
 The class is great!
+
+first change for a new commit
